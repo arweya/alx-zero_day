@@ -1,1 +1,1 @@
-Non empty file
+up_to_date
